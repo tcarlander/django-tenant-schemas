@@ -1,5 +1,6 @@
 #!/usr/bin/env python
 
+from io import open
 from os.path import exists
 from version import get_git_version
 
